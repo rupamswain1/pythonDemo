@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dbe625aa-5d1e-4231-8c47-58b747bcf2d9" name="Default Changelist" comment="" />
+    <list default="true" id="dbe625aa-5d1e-4231-8c47-58b747bcf2d9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,13 +12,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Test/Demo/test_trys.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+            <state relative-caret-position="272">
+              <caret line="28" column="112" lean-forward="true" selection-start-line="28" selection-start-column="58" selection-end-line="28" selection-end-column="112" />
               <folding>
                 <element signature="e#1#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Test/Demo/test_two.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+              <folding>
+                <element signature="e#1#16#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -31,12 +45,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Python_test/test_examole.py" />
         <option value="$PROJECT_DIR$/Test/Demo/trys.py" />
         <option value="$PROJECT_DIR$/Test/Demo/test_trys.py" />
+        <option value="$PROJECT_DIR$/Test/Demo/test_two.py" />
       </list>
     </option>
   </component>
@@ -46,6 +64,7 @@
     <option name="width" value="1346" />
     <option name="height" value="698" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -87,6 +106,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -111,28 +131,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in test_trys.py">
-    <configuration name="test_examole" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonBasics" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_test/test_examole.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Unittests in test_two.py">
     <configuration name="trys" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonBasics" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -196,13 +195,27 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Unittests in test_two.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="PythonBasics" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test/Demo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Test/Demo/test_two.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests in test_two.py" />
         <item itemvalue="Python tests.Unittests in test_trys.py" />
         <item itemvalue="Python tests.Unittests for test_trys.trya" />
         <item itemvalue="Python tests.Unittests for test_trys.trya.test_two" />
         <item itemvalue="Python.trys" />
-        <item itemvalue="Python.test_examole" />
       </list>
     </recent_temporary>
   </component>
@@ -220,15 +233,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_test_trys_trya - 2019.05.19 at 21h 01m 09s.xml">
-      <configuration name="Unittests for test_trys.trya" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_trys_py - 2019.05.19 at 21h 05m 55s.xml">
-      <configuration name="Unittests in test_trys.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_trys_py - 2019.05.19 at 21h 06m 59s.xml">
-      <configuration name="Unittests in test_trys.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_in_test_trys_py - 2019.05.19 at 21h 08m 23s.xml">
       <configuration name="Unittests in test_trys.py" configurationId="tests" />
     </history-entry>
@@ -250,6 +254,15 @@
     <history-entry file="Unittests_in_test_trys_py - 2019.05.19 at 22h 28m 02s.xml">
       <configuration name="Unittests in test_trys.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_in_test_trys_py - 2019.05.20 at 21h 33m 08s.xml">
+      <configuration name="Unittests in test_trys.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_trys_py - 2019.05.20 at 21h 35m 03s.xml">
+      <configuration name="Unittests in test_trys.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_two_py - 2019.05.20 at 21h 35m 17s.xml">
+      <configuration name="Unittests in test_two.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -261,7 +274,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24330357" />
@@ -287,10 +300,20 @@
     <entry file="file://$PROJECT_DIR$/Python_test/test_examole.py" />
     <entry file="file://$PROJECT_DIR$/Test/Demo/test_trys.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+        <state relative-caret-position="272">
+          <caret line="28" column="112" lean-forward="true" selection-start-line="28" selection-start-column="58" selection-end-line="28" selection-end-column="112" />
           <folding>
             <element signature="e#1#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/Demo/test_two.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+          <folding>
+            <element signature="e#1#16#0" expanded="true" />
           </folding>
         </state>
       </provider>
